@@ -2,5 +2,5 @@
 
 
 Pavel Leskavets
-HTML CSS Basics: https://www.codecademy.com/users/leskovecpavel71814545103/achievements 
+HTML CSS Basics: https://www.codecademy.com/users/leskovecpavel71814545103/achievements    
 HTML Academy: https://htmlacademy.ru/profile/id871715/achievements
